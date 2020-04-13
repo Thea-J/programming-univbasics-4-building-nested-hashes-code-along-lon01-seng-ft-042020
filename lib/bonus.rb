@@ -20,7 +20,8 @@ def bonus
    }
   }
 
-  #code your solution here:
+
+#change the hero and heroine's status from alive to dead
 
   
 
