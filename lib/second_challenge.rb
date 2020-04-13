@@ -1,4 +1,4 @@
-#
+#Next we model the 2nd teir
 #Remember the commas 
 def second_challenge
   epic_tragedy = {
