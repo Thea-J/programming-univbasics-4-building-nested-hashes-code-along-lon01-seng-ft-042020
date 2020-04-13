@@ -8,7 +8,7 @@ def third_challenge
         :name => "Lady Montague", :age => "54" 
         },
       :hero => {
-        :name => "Lady Montague", :age => "54" 
+        :name => "Romeo", :age => "54" 
         },
       :hero_friends => []
    }, 
