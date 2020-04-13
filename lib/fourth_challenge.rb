@@ -1,4 +1,5 @@
 #Finally the 4th teir
+#If you need info in list form, use an array
 def fourth_challenge
   epic_tragedy = {
    :montague => {
