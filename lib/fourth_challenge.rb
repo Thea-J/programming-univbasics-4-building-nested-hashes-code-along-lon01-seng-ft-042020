@@ -1,5 +1,6 @@
 #Finally the 4th teir
 #If you need info in list form, use an array
+#Remember the commas
 def fourth_challenge
   epic_tragedy = {
    :montague => {
