@@ -1,4 +1,4 @@
-#Next the 3rd teir
+#Finally the 4th teir
 def fourth_challenge
   epic_tragedy = {
    :montague => {
